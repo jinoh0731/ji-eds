@@ -1,4 +1,3 @@
 mountpoints:
   /:
-    url: https://content.da.live/jinoh0731/ji-eds
-    type: markup
+    url: https://github.com/jinoh0731/ji-eds
