@@ -1,2 +1,4 @@
 mountpoints:
-  /: https://content.da.live/stevenanderson524/nfl-eds-demo
+  /:
+    url: https://content.da.live/jinoh0731/ji-eds
+    type: markup
