@@ -1,2 +1,4 @@
 mountpoints:
-  /: https://content.da.live/jinoh0731/ji-eds
+  /:
+    url: https://content.da.live/jinoh0731/ji-eds
+    type: markup
